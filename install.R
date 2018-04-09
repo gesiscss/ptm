@@ -1,0 +1,5 @@
+install.packages("ggplot2")
+install.packages("quanteda")
+install.packages("magrittr")
+install.packages("dplyr")
+install.packages("tm")
