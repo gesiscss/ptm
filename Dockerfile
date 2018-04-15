@@ -13,7 +13,6 @@ RUN apt-get -y update && \
     
 
 RUN R CMD javareconf
-RUN apt-get install r-cran-rjava
 
 RUN Rscript install.R
 
