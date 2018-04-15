@@ -1,5 +1,7 @@
 channels:
 - conda-forge
+- r
 - defaults
 dependencies:
 - gsl
+- r 
