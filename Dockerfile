@@ -14,7 +14,5 @@ RUN apt-get -y update && \
 
 RUN R CMD javareconf
 
-RUN Rscript install.R
-
 USER $NB_UID
 
