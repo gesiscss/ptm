@@ -1,5 +1,0 @@
-gsl-bin
-libgsl0-dev
-default-jre
-default-jdk
-r-cran-rjava
