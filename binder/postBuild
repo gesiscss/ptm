@@ -1,0 +1,5 @@
+#!/bin/bash
+
+R CMD javareconf -e
+
+Rscript binder/install_.R
