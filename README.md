@@ -1,6 +1,6 @@
 # Practical Introduction to Text Mining
 
-[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/arnim/ptm/master?filepath=index.ipynb)
+[![Binder](https://notebooks.gesis.org/binder/badge.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/ptm/master?filepath=index.ipynb)
 
 
 ## Lecturer(s):
