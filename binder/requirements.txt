@@ -1,1 +1,1 @@
-jupyterhub==0.8.*
+jupyterhub==0.9.0rc1
