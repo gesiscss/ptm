@@ -1,5 +1,4 @@
 install.packages("ggplot2", repos='http://cran.us.r-project.org')
-install.packages("quanteda", repos='http://cran.us.r-project.org')
 install.packages("magrittr", repos='http://cran.us.r-project.org')
 install.packages("dplyr", repos='http://cran.us.r-project.org')
 install.packages("wordcloud", repos='http://cran.us.r-project.org')
@@ -15,3 +14,6 @@ install.packages("topicmodels", repos='http://cran.us.r-project.org')
 install.packages("rJava", repos='http://cran.us.r-project.org')
 install.packages("openNLP", repos='http://cran.us.r-project.org')
 install.packages("RColorBrewer", repos='http://cran.us.r-project.org')
+
+require(devtools)
+install_version("quanteda", version = "1.4.0", repos='http://cran.us.r-project.org', dependencies=TRUE)
