@@ -47,3 +47,8 @@ These notebooks are built on [tm4ss - Text Mining for Social Scientists and Digi
 ```
 Wiedemann, Gregor; Niekler, Andreas (2017): Hands-on: a five day text mining course for humanists and social scientists in R. Proceedings of the 1st Workshop Teaching NLP for Digital Humanities (Teach4DH), GSCL 2017, Berlin.
 ```
+---
+
+Funded partially by the German Research Foundation (DFG).
+FKZ/project number:
+[324867496](https://gepris.dfg.de/gepris/projekt/324867496?context=projekt&task=showDetail&id=324867496&).
